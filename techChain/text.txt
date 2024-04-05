@@ -1,0 +1,5 @@
+mau:
+#00A9FF
+#89CFF3
+#A0E9FF
+#CDF5FD
